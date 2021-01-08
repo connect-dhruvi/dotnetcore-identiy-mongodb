@@ -28,14 +28,14 @@ namespace slotmachine_api.Controllers
         [HttpGet("{id:length(24)}")]
         public ActionResult<SpinHistory> Get(string id)
         {
-            var book = _spinHistoryService.Get(id);
+            var data = _spinHistoryService.Get(id);
 
-            if (book == null)
+            if (data == null)
             {
                 return NotFound();
             }
 
-            return book;
+            return data;
         }
     }
 }

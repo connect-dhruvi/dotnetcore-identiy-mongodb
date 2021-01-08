@@ -60,3 +60,4 @@ C:\Users\conne\source\repos\slotmachine-api\slotmachine-api\obj\Debug\netcoreapp
 C:\Users\conne\source\repos\slotmachine-api\slotmachine-api\obj\Debug\netcoreapp3.1\slotmachine-api.dll
 C:\Users\conne\source\repos\slotmachine-api\slotmachine-api\obj\Debug\netcoreapp3.1\slotmachine-api.pdb
 C:\Users\conne\source\repos\slotmachine-api\slotmachine-api\obj\Debug\netcoreapp3.1\slotmachine-api.genruntimeconfig.cache
+C:\Users\conne\source\repos\slotmachine-api\slotmachine-api\obj\Debug\netcoreapp3.1\slotmachine-api.csprojAssemblyReference.cache
